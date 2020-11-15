@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">dotdev</h1>
+      <h1 class="title">dotlinks</h1>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -50,14 +50,14 @@ export default {}
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  color: #000000;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
+  color: #000000;
   word-spacing: 5px;
   padding-bottom: 15px;
 }
